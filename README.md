@@ -1,26 +1,11 @@
-# LeetCode Solutions
+# LeetCode
 
-Bienvenue dans mon dépôt GitHub qui contient toutes mes solutions aux problèmes de LeetCode. Ici, vous trouverez des solutions aux problèmes d'algorithmes et de structures de données classées par difficulté et par sujet.
+This repository contains my solutions to LeetCode problems.
 
-## Table des matières
+Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 
-- [À propos](#à-propos)
-- [Organisation des solutions](#organisation-des-solutions)
-- [Comment utiliser ce dépôt](#comment-utiliser-ce-dépôt)
-- [Outils et Langages](#outils-et-langages)
-- [Contribuer](#contribuer)
-- [License](#license)
+ ## Made by 
+ - Tut: [GitHub](https://github.com/TutTrue) - [LinkedIn](https://www.linkedin.com/in/mahmoud-hamdy-8b6825245/)
+ - Hüsam: [GitHub](https://github.com/husamahmud) - [LinkedIn](https://www.linkedin.com/in/husamahmud/)
 
-## À propos
-
-Ce dépôt contient mes solutions aux problèmes de LeetCode que je résous pour améliorer mes compétences en algorithmique et en résolution de problèmes. Chaque solution est accompagnée de sa complexité en temps et en espace ainsi que de quelques explications sur l'approche adoptée.
-
-## Organisation des solutions
-
-Les solutions sont organisées de la manière suivante :
-
-- **Facile** : Contient les solutions aux problèmes de niveau facile.
-- **Moyen** : Contient les solutions aux problèmes de niveau moyen.
-- **Difficile** : Contient les solutions aux problèmes de niveau difficile.
-
-Chaque dossier est nommé selon l'ID du problème et son titre pour faciliter la recherche. Par exemple :
+ Happy coding! 🚀
